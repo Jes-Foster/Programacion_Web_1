@@ -1,0 +1,26 @@
+.colorazul {
+    color: blue
+}
+
+.colorcafe {
+    color: chocolate;
+}
+
+.parrafo {
+    color: rgba(120, 80, 40, 66);
+    background-color: whitesmoke;
+    font-size: 16px;
+}
+
+p {
+    font-size: 40px;
+}
+
+.lista p {
+    color: blanchedalmond;
+    font-size: 40px;
+}
+
+h1{
+    color: plum;
+}
